@@ -1,0 +1,26 @@
+Unsolicited
+hashtag
+#SEO tip: I've been analysing the raw network traffic that flows when ChatGPT searches the web, and found something interesting buried in the response data. ⤵️
+
+I saw Metehan Yeşilyurt teasing with this data, so I wanted to publish the few scraps I've had time to put together on this before he steals my thunder with something amazing 😭 (feel free to add to the below, my sample sizes are tiny and I imagine Peec AI probably has a few floppy disks worth).
+
+Every search result ChatGPT retrieves contains a hidden field called "result_source". It's never shown to users and isn't documented anywhere. It seem to be able to take one of three values:
+
+📜 "serp": The open web baseline. Standard real-time results from official sites, aggregators and social platforms. Shorter snippets, pub_date often null.
+
+🐕 "labrador": licensed quality content. This one surprised me. It covers premium news wires (Reuters, The Guardian), Wikipedia, AND product review sites like RunnersWorld. It's not just a news feed, it's a structured quality gate. Snippets here can run to over 1,000 characters, essentially full article extracts.
+
+🛠️ "bright": The publisher mix points strongly to Brightdata structured web datasets under the hood, which are ready-to-use, structured business intelligence datasets pulled from thousands of web pages powered by Bright Data’s Deep Lookup AI technology (Metehan suggests this could be a test).
+
+💡 There's also a companion field called "turn_use_case" that classifies your query before any search happens, and that classification determines which pipelines fire:
+
+→ "instant search" (news, sports, etc): all three pipelines run in parallel
+→ "shopping": labrador only, zero serp or bright (v small sample size)
+→ "text" (how-to, instructional): no web search at all, answered from training data
+
+This matters for anyone thinking about GEO/AEO strategy right now. The question isn't just "is my content good enough to be cited?", it's "does my content type even reach the pipeline that fires for my query intent?"
+
+Do you like this kind of research? Well, great news. I'm speaking at brightonSEO in October after Kelvin Newman was on the hunt for "someone has clearly spent far too long thinking about one specific technical SEO problem" 🤓
+
+My talk is called "Wiretapping the SERP: Capturing Network Data to Reverse Engineer Google", and covers all these kinds of shenanigans. 
+

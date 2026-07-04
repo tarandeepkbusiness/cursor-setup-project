@@ -1,0 +1,22 @@
+SEO updates you ✨NEED✨ to know [29 June]:
+
+👀 Google explains how impressions work in AI Mode and AI Overviews. A link to a site, not a brand mention, is counted as the trigger for an impression. So don't confuse unlinked mentions in AI search with impressions. via John Mueller
+
+⚡​Google's June 2026 spam update rolled out and completed. This update began its rollout on 24 June and was completed on 26 June. It was a relatively fast and quiet update compared to the previous 2026 updates.
+
+❇️ ​Desktop clicks have risen since Q4 2025 while mobile clicks have fallen. This study shows that these shifts in CTR have affected all types of searches, regardless of the intent or length of the query. via Dan Popa @ Advanced Web Ranking
+
+🔍 ​Google warns against using markdown for AI search optimisation. Martin Splitt explains that markdown is not a good user experience as it neglects many of the visual elements that modern users expect from websites.
+
+📊 ​Pages cited in AI search have less commodity content than those in traditional search. Commodity content is information that has an easily defined answer, whereas non-commodity content is information that requires expertise. via Sean Fulford / Flying V Group
+
+📉 ​Microsoft Clarity now shows robots.txt violations in its bot analytics. This allows users to see which crawlers ignore robots.txt rules such as requesting disallowed URLs.
+
+🤖 ​There is more overlap in traditional Bing and Google results than AI search. There is a 10-28% overlap in AI search results compared to 10-20% in traditional search results. via Dave Smart
+
+🙏 ​Bruce Clay, one the pioneers of the SEO, has passed away. Bruce, known as the Father of SEO, worked in SEO for over three decades and helped shape the early SEO industry. Our condolences go to Bruce's family and friends.
+
+💌 If you like this kind of tl;dr news, I curate and send them out weekly to over 13,000 SEOs on the Core Updates newsletter, along with 5 'solicited' SEO tips and a deep dive podcast. In this week's podcast, Jack Chambers-Ward talks to Laura Iancu about the growing crossover between SEO and UX and how we should all thinking about 'Search Experience Optimisation' (SXO) instead of traditional SEO.
+
+Links to subscribe and everything else in my first comment [click "Recent" and scroll to bottom] there is too much to post in here! ⤵️ 
+
