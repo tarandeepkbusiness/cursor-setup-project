@@ -1,0 +1,56 @@
+Everyone's talking about AI. Nobody's actually using it.
+
+
+Here's where to start:
+
+
+1. Win new customers on autopilot
+
+
+Find your ideal customers in Apollo, then drop them into Instantly to send automated cold email sequences. New leads in your inbox on autopilot.
+
+
+2. Close more deals
+
+
+Record your sales calls with Fathom, then drop the transcripts into NotebookLM. Ask it where you're losing people and exactly what to say differently next time.
+
+
+3. Write emails in your voice
+
+
+Create a Claude skill with your tone, your style, and examples of your best emails. Every email you write from now on sounds like you.
+
+
+4. Get customers coming to you
+
+
+Use Kleo to write posts that build your brand and bring inbound leads. No staring at a blank page.
+
+
+5. Turn customer calls into your roadmap
+
+
+Record every customer call with Fathom, then paste the transcripts into Claude. Ask "what are customers asking for most?" Build what they actually want, not what you think they want.
+
+
+6. Create stunning presentations from scratch
+
+
+Ask ChatGPT to outline your presentation, slide by slide. Paste it into Gamma and it handles all the design. No PowerPoint skills needed.
+
+
+7. Turn scattered thoughts into a clear plan
+
+
+Open Claude, switch on voice-to-text, and talk through any problem out loud. It organises your thoughts and tells you exactly what to do next.
+
+
+8. Get smarter on any topic in 20 minutes
+
+
+Open Perplexity Deep Research and type "explain [topic] like I'm a beginner, then go deep." It pulls from hundreds of sources and writes you a full breakdown.
+
+
+Which of these are you already using?
+

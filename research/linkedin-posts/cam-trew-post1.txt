@@ -1,0 +1,35 @@
+I can’t stop thinking about this Tweet.
+
+Everyone's building an AI company. But most don't realise they're actually in the data business.
+
+Here are the 3 layers every AI business is built on:
+
+1. Data
+
+- Every AI model runs on data
+- User behaviour tells you what to build next
+- Data turns assumptions into decisions
+- Data compounds over time
+- The quality of your output starts with your data quality
+
+2. Media
+
+- A good product means nothing without distribution
+- Your product can be copied, but your audience can't
+- Good content works harder than any sales team
+- Paid ads stop the moment you stop paying
+- People buy from brands they trust
+
+3. Product/Service
+
+- This is where everything comes together
+- Use your data to deliver what people actually want
+- Your audience will leave if the product doesn't deliver
+- Retention starts and ends here
+- Happy customers become your best case studies
+
+Most businesses get this order wrong.
+
+They build the product first, figure out distribution later, then never think about the data.
+
+What's your best tip for any of these layers? 
