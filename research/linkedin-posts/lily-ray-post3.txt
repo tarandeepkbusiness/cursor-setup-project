@@ -1,0 +1,11 @@
+Over the years, I’ve used various tools, Chrome extensions, and (obviously) the browser itself to diagnose JavaScript-related SEO issues. But now with AI search, I’ve found myself needing a quick and easy way to check if a page’s JS setup is “LLM-friendly” - so I built a tool myself.
+
+My “LLM Content Visibility Scanner” shows you what (non-Google) AI crawlers like GPTBot (ChatGPT), ClaudeBot and PerplexityBot actually see when they look at your page, without executing JavaScript (the way most LLM bots fetch content.) 
+
+Just paste a URL and it quickly audits the raw HTML for client-side rendering issues, missing structured data, paywalls, alt text gaps, and crawlability problems. 
+
+It then hands you a prioritized mini-action plan with specific URLs to address, plus some other metadata information.
+
+Note: there are some known limitations listed at the bottom, so the tool isn’t always 100% perfect. And it’s certainly not meant to serve as a replacement for a proper technical SEO audit. But it’s a good starting point and a quick tool to use for this purpose when you’re on the go. 
+
+Let me know what you think and feel free to DM me any feedback/bugs you might encounter! 
