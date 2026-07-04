@@ -24,7 +24,7 @@
 As a Digital Marketing Specialist with experience building AI workflows (n8n) and managing multi-brand SEO, I chose this topic to explore the intersection of **technical automation** and **search authority**. I am particularly interested in how B2B SaaS companies can use AI to scale content without sacrificing E-E-A-T.
 
 ## Experts Selected
-I selected 11 experts who are "practitioners" (Agency Owners, Tool Builders, and Technical Directors). My criteria focused on those who share raw data, network traffic analysis, and specific automated workflows.
+I selected 10 experts who are "practitioners" (Agency Owners, Tool Builders, and Technical Directors). My criteria focused on those who share raw data, network traffic analysis, and specific automated workflows.
 
 ## Technical Methods Used
 - **YouTube API Integration:** Used the **Supadata API** via PowerShell scripts to programmatically fetch video transcripts for analysis.
